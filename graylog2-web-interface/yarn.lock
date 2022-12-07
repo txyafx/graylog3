@@ -4749,12 +4749,12 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.1.9:
   integrity sha1-Dovf5NHduIVNZOBOp8AOKgJuVlg=
 
 "graylog-web-plugin@file:packages/graylog-web-plugin":
-  version "3.0.0-beta.3-SNAPSHOT"
+  version "3.0.3-SNAPSHOT"
   dependencies:
     "@babel/preset-env" "7.2.3"
     babel-eslint "9.0.0"
     eslint "4.19.1"
-    eslint-config-graylog "file:../../../../Library/Caches/Yarn/v3/npm-graylog-web-plugin-3.0.0-beta.3-SNAPSHOT-5de24b86-882f-4efd-be3a-38163c857b1c-1547734481272/node_modules/eslint-config-graylog"
+    eslint-config-graylog "file:packages/eslint-config-graylog"
     html-webpack-plugin "3.2.0"
     javascript-natural-sort "0.7.1"
     jquery "3.3.1"
@@ -8799,9 +8799,9 @@ qs@6.5.2:
   integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
 
 qs@^6.3.0, qs@^6.5.1, qs@~6.5.1:
-  version "6.5.1"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.1.tgz#349cdf6eef89ec45c12d7d5eb3fc0c870343a6d8"
-  integrity sha512-eRzhrN1WSINYCDCbrz796z37LOe3m5tmW7RQf6oBntukAG1nmovJvhnwHHRMAfeoItc1m2Hk02WER2aQ/iqs+A==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 qs@~6.4.0:
   version "6.4.0"
